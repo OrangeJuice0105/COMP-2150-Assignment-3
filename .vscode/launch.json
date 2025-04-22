@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameMode",
+            "request": "launch",
+            "mainClass": "MainGameMode",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}

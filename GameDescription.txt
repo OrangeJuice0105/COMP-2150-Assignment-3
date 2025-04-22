@@ -1,0 +1,18 @@
+The objective of Greed is to erase as much as of the screen as possible by moving around in a greed of numbers.
+
+In order to move, press any number to move in the board. The direction you chose to move will be based on the number of keypads. 
+Specifically, the directions are based on the following keypad layout:
+
+    7-8-9         up left -  up  - up right
+    4-5-6            left - stay - right
+    1-2-3       down left - down - down right
+
+Your current location is specified by the '@' symbol. 
+
+When you move in a direction, you consume N numbers on the grid, where N is the number in that direction. 
+Your scores are the total numbers you have cleared on the board. 
+The game continues until you have no more moves to make, where the game will exit automatically.
+If you want to quit the game, simply enter 0 ingame to give up.
+
+Have fun with the game!
+
